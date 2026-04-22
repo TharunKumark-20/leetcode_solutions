@@ -1,1 +1,1 @@
-class solution {} 
+class solution { } 
